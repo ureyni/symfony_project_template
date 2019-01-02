@@ -36,3 +36,8 @@
  - Export data to Ms Excel, Ms Word, Pdf , XML
  - Export data to Charts 
  - Chat with Websocket
+ - ...etc 
+**Extra.**
+ - Devops environment with Docker, kubernates.
+ - Percona/Galera MySQL cluster
+ - ProxySQL for sql proxy front of MySQL Cluster 
